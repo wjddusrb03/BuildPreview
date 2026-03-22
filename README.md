@@ -17,12 +17,19 @@ A lightweight **Paper 1.21+** plugin that renders a ghost preview block at the e
 
 ---
 
-> **Note:** If you have in-game screenshots of the preview in action, feel free to contribute them via [Issues](../../issues)!
+## Screenshots
 
-<!--
-  To add screenshots, place images in the repo and uncomment:
-  ![Preview Demo](screenshots/preview_demo.png)
--->
+<div align="center">
+
+| Placed block vs Preview | Preview with green glow |
+|:-:|:-:|
+| ![Sculk Sensor Preview](screenshots/preview_sculk.png) | ![Target Block Preview](screenshots/preview_target.png) |
+
+*The green-glowing smaller block is the placement preview. Only you can see it!*
+
+*초록색으로 빛나는 작은 블록이 설치 미리보기입니다. 본인에게만 보입니다!*
+
+</div>
 
 ---
 
@@ -157,6 +164,20 @@ When reporting a bug, please include:
 가벼운 **Paper 1.21+** 플러그인으로, 최신 **BlockDisplay** 엔티티를 사용하여
 블록이 설치될 정확한 위치에 고스트 미리보기를 렌더링합니다.
 **의존성 없음. 설정 없음. 설치하고 바로 건축하세요.**
+
+</div>
+
+---
+
+## 스크린샷
+
+<div align="center">
+
+| 설치된 블록 vs 미리보기 | 초록색 발광 미리보기 |
+|:-:|:-:|
+| ![스컬크 센서 미리보기](screenshots/preview_sculk.png) | ![과녁 블록 미리보기](screenshots/preview_target.png) |
+
+*초록색으로 빛나는 작은 블록이 설치 미리보기입니다. 본인에게만 보입니다!*
 
 </div>
 
